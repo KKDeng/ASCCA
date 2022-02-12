@@ -1,0 +1,5 @@
+success & 132 &  100.0\% & 132 & 100.0\% \\
+fastest & 116 &  87.9\% & 16 & 12.1\% \\
+fastest under success & 116 &  89.9\% & 16 & 12.1\% \\
+not slower 1.2 times & 118 &  89.4\% & 24 & 18.2\% \\
+not slower 1.2 times under success & 118 &  91.5\% & 24 & 18.2\% \\
